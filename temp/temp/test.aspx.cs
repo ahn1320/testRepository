@@ -11,7 +11,12 @@ namespace temp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            btnWelcome.Text = "Button";
+        }
 
+        protected void btnWelcome_Click(object sender, EventArgs e)
+        {
+            lblYay.Text = "Success";
         }
     }
 }
