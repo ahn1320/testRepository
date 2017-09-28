@@ -9,7 +9,8 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Label runat="server" Text="Welcome"></asp:Label>
+            <asp:Label runat="server" Text="Our first temp project"></asp:Label><br />
+            <asp:Label runat="server" Text="Yay"></asp:Label>
         </div>
     </form>
 </body>
