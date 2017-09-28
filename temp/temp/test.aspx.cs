@@ -16,7 +16,7 @@ namespace temp
 
         protected void btnWelcome_Click(object sender, EventArgs e)
         {
-            lblYay.Text = "Success";
+            lblYay.Text = "Successful button press";
         }
     }
 }
